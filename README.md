@@ -1,6 +1,6 @@
-# Hi, I'm Kayla! :wave::whale:💫
+## Hi, I'm Kayla! :wave::whale:💫
 
-## I'm passionate about delivering meaningful experiences for others :sunglasses:
+### I'm passionate about delivering meaningful experiences for others :sunglasses:
 
 - :computer: I'm a sophomore studying Computer Science at the University of Florida!
 - :star: I'm currently learning full-stack development!
