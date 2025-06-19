@@ -1,4 +1,4 @@
-# Hi, I'm Kayla! :wave::whale:💫:
+# Hi, I'm Kayla! :wave::whale:💫
 
 ## I'm passionate about delivering meaningful experiences for others :sunglasses:
 
