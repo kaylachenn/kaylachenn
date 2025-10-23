@@ -2,7 +2,7 @@
 
 ### I'm passionate about creating meaningful experiences for others :sunglasses:
 
-- :computer: I'm a sophomore studying Computer Science at the University of Florida!
+- :computer: I'm a student studying Computer Science at the University of Florida!
 - :star: I'm currently learning full-stack development!
 - :grey_exclamation: I'm eager to contribute my skils to a role where a meaningful difference can be made!
 - :email: You can reach me at kaylachen24@gmail.com!
