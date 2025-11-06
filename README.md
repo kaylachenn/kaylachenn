@@ -1,4 +1,4 @@
-# ‎ ‎  hi, i'm kayla! <img src ="https://cliply.co/wp-content/uploads/2019/05/391905030_SPARKLES_400px.gif" width="40" align="center">
+# ‎ ‎hi, i'm kayla! <img src ="https://cliply.co/wp-content/uploads/2019/05/391905030_SPARKLES_400px.gif" width="40" align="center">
 
 **`computer science student @ uf 🐊 | aspiring software engineer 👩🏻‍💻`**
 
@@ -31,6 +31,7 @@ currently looking for **summer 2026 internships** in software engineering or pro
 📧 **email:** kaylachen24@gmail.com
 💼 **linkedin:** [connect with me!](https://www.linkedin.com/in/kaylachenn/)
 
+<!--
 ---
 
 ## 💫 github stats
@@ -41,10 +42,13 @@ currently looking for **summer 2026 internships** in software engineering or pro
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaylachenn&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" height="165"/>
 
 </p>
-
-<div align="center"> <i>💕 thanks for stopping by! have a great day! 💕</i> </div>
+-->
 
 ---
+<div align="center"> <i>💕 thanks for stopping by! have a great day! 💕</i> </div>
+
+<br/>
+
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=kaylachenn&color=4B68B8&style=flat-square)
