@@ -1,40 +1,40 @@
-# ‎ ‎hi, i'm kayla! <img src ="https://cliply.co/wp-content/uploads/2019/05/391905030_SPARKLES_400px.gif" width="40" align="center">
+# Hi, I'm Kayla! <img src ="https://cliply.co/wp-content/uploads/2019/05/391905030_SPARKLES_400px.gif" width="40" align="center">
 
-**`computer science student @ uf 🐊 | aspiring software engineer 👩🏻‍💻`**
+**`Computer Science Student @ UF 🐊 | Aspiring Software Engineer 👩🏻‍💻`**
 
-## 🌊 about me
-i'm a student at the University of Florida who loves turning ideas into code and building things that can help make people's lives a little brighter 🌞
+## 🌊 About Me
+I'm a student at the University of Florida who loves turning ideas into code and building things that can help make people's lives a little brighter 🌞
 
-i'm all about:
-- 💻 creating meaningful tech experiences  
-- 🫧 solving problems with a purpose  
-- 🪼 making tech more accessible for everyone  
-- 🌀 exploring both front-end design and back-end development  
+I'm all about:
+- 💻 Creating meaningful tech experiences  
+- 🫧 Solving problems with a purpose  
+- 🪼 Making tech more accessible for everyone  
+- 🌀 Exploring both front-end design and back-end development  
 
-currently looking for **summer 2026 internships** in software engineering or product management where i can bring my technical skills + people-first mindset !  
+Currently looking for **Summer 2026 internships** in software engineering or product management where I can bring my technical skills + people-first mindset!  
 
 ---
-## 🛠️ my toolkit
+## 🛠️ My Toolkit
 
-### **languages i speak (to computers):**
+### **Languages I Speak (To Computers):**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,html,css,sql" />
 </p>
 
-### **frameworks & tools i love:**
+### **Frameworks & Tools I Love:**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,tailwind,express,nodejs,mongodb,firebase,git,github,vscode,expo" />
 </p>
 
 ---
-## 💌 let's connect!
-📧 **email:** kaylachen24@gmail.com
-💼 **linkedin:** [connect with me!](https://www.linkedin.com/in/kaylachenn/)
+## 💌 Let's Connect!
+📧 **Email:** kaylachen24@gmail.com  
+💼 **LinkedIn:** [Connect With Me!](https://www.linkedin.com/in/kaylachenn/)
 
 <!--
 ---
 
-## 💫 github stats
+## 💫 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaylachenn&show_icons=true&theme=rose_pine&hide_border=true" height="165"/>
@@ -45,7 +45,7 @@ currently looking for **summer 2026 internships** in software engineering or pro
 -->
 
 ---
-<div align="center"> <i>💕 thanks for stopping by! have a great day! 💕</i> </div>
+<div align="center"> <i>💕 Thanks for stopping by! Have a great day! 💕</i> </div>
 
 <br/>
 
